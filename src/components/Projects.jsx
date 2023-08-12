@@ -10,19 +10,19 @@ function Projects() {
             Website Dashboard Project Design, Programming And Hosting
           </p>
           <div className="team">
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-01.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-02.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-03.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-04.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-05.png" alt="" />
             </a>
           </div>
@@ -49,13 +49,13 @@ function Projects() {
             Academy Portal Design And Programming
           </p>
           <div className="team">
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-01.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-02.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-03.png" alt="" />
             </a>
           </div>
@@ -80,13 +80,13 @@ function Projects() {
             Chatting Application Project Design
           </p>
           <div className="team">
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-01.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-02.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-03.png" alt="" />
             </a>
           </div>
@@ -110,16 +110,16 @@ function Projects() {
             Zead Dashboard Project Design, Programming And Hosting
           </p>
           <div className="team">
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-01.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-02.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-03.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-04.png" alt="" />
             </a>
           </div>
@@ -146,13 +146,13 @@ function Projects() {
             Zead Portal Project Design And Programming
           </p>
           <div className="team">
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-01.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-02.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-03.png" alt="" />
             </a>
           </div>
@@ -177,13 +177,13 @@ function Projects() {
             Store Application Project Design
           </p>
           <div className="team">
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-01.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-02.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-03.png" alt="" />
             </a>
           </div>
@@ -207,16 +207,16 @@ function Projects() {
             Store Dashboard Project Design, Programming And Hosting
           </p>
           <div className="team">
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-01.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-02.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-03.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-04.png" alt="" />
             </a>
           </div>
@@ -243,13 +243,13 @@ function Projects() {
             Store Portal Project Design And Programming
           </p>
           <div className="team">
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-01.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-02.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-03.png" alt="" />
             </a>
           </div>
@@ -275,13 +275,13 @@ function Projects() {
             Booking Application Project Design
           </p>
           <div className="team">
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-01.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-02.png" alt="" />
             </a>
-            <a href="#">
+            <a>
               <img src="assets/imgs/team-03.png" alt="" />
             </a>
           </div>

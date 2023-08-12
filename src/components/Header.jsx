@@ -1,5 +1,3 @@
-import logo from "../assets/imgs/MyLogo.png";
-
 function Header() {
   return (
     <div className="head bg-white p-15 between-flex">
@@ -15,7 +13,7 @@ function Header() {
           <i className="fa-regular fa-bell fa-lg"></i>
         </span>
 
-        <img src={logo} alt="avatar" />
+        <img src="assets/imgs/MyLogo.png" alt="avatar" />
       </div>
     </div>
   );

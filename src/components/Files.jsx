@@ -41,7 +41,7 @@ function Files() {
             <div class="size c-grey">2.9GB</div>
           </div>
 
-          <a href="#" class="upload bg-blue c-white fs-13 rad-6 d-block w-fit">
+          <a class="upload bg-blue c-white fs-13 rad-6 d-block w-fit">
             <i class="fa-solid fa-upload mr-10"></i>
             Upload
           </a>

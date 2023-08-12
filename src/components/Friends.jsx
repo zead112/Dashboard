@@ -39,9 +39,7 @@ function Friends() {
               <a className="bg-blue c-white btn-shape" href="profile.html">
                 Profile
               </a>
-              <a className="bg-red c-white stat-shape" href="#">
-                Remove
-              </a>
+              <a className="bg-red c-white stat-shape">Remove</a>
             </div>
           </div>
         </div>
@@ -80,9 +78,7 @@ function Friends() {
               <a className="bg-blue c-white btn-shape" href="profile.html">
                 Profile
               </a>
-              <a className="bg-red c-white stat-shape" href="#">
-                Remove
-              </a>
+              <a className="bg-red c-white stat-shape">Remove</a>
             </div>
           </div>
         </div>
@@ -122,9 +118,7 @@ function Friends() {
               <a className="bg-blue c-white btn-shape" href="profile.html">
                 Profile
               </a>
-              <a className="bg-red c-white stat-shape" href="#">
-                Remove
-              </a>
+              <a className="bg-red c-white stat-shape">Remove</a>
             </div>
           </div>
         </div>
@@ -164,9 +158,7 @@ function Friends() {
               <a className="bg-blue c-white btn-shape" href="profile.html">
                 Profile
               </a>
-              <a className="bg-red c-white stat-shape" href="#">
-                Remove
-              </a>
+              <a className="bg-red c-white stat-shape">Remove</a>
             </div>
           </div>
         </div>
@@ -205,9 +197,7 @@ function Friends() {
               <a className="bg-blue c-white btn-shape" href="profile.html">
                 Profile
               </a>
-              <a className="bg-red c-white stat-shape" href="#">
-                Remove
-              </a>
+              <a className="bg-red c-white stat-shape">Remove</a>
             </div>
           </div>
         </div>
@@ -246,9 +236,7 @@ function Friends() {
               <a className="bg-blue c-white btn-shape" href="profile.html">
                 Profile
               </a>
-              <a className="bg-red c-white stat-shape" href="#">
-                Remove
-              </a>
+              <a className="bg-red c-white stat-shape">Remove</a>
             </div>
           </div>
         </div>
@@ -287,9 +275,7 @@ function Friends() {
               <a className="bg-blue c-white btn-shape" href="profile.html">
                 Profile
               </a>
-              <a className="bg-red c-white stat-shape" href="#">
-                Remove
-              </a>
+              <a className="bg-red c-white stat-shape">Remove</a>
             </div>
           </div>
         </div>
@@ -328,9 +314,7 @@ function Friends() {
               <a className="bg-blue c-white btn-shape" href="profile.html">
                 Profile
               </a>
-              <a className="bg-red c-white stat-shape" href="#">
-                Remove
-              </a>
+              <a className="bg-red c-white stat-shape">Remove</a>
             </div>
           </div>
         </div>
@@ -368,9 +352,7 @@ function Friends() {
               <a className="bg-blue c-white btn-shape" href="profile.html">
                 Profile
               </a>
-              <a className="bg-red c-white stat-shape" href="#">
-                Remove
-              </a>
+              <a className="bg-red c-white stat-shape">Remove</a>
             </div>
           </div>
         </div>
@@ -409,9 +391,7 @@ function Friends() {
               <a className="bg-blue c-white btn-shape" href="profile.html">
                 Profile
               </a>
-              <a className="bg-red c-white stat-shape" href="#">
-                Remove
-              </a>
+              <a className="bg-red c-white stat-shape">Remove</a>
             </div>
           </div>
         </div>

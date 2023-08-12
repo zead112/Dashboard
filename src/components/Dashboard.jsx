@@ -9,9 +9,9 @@ function Dashboard() {
               <h2 class="m-0">Welcome</h2>
               <p class="c-grey mt-5">Zead Hajebrahem</p>
             </div>
-            <img src="./assets/imgs/welcome.png" alt="" class="hide-mobile" />
+            <img src="assets/imgs/welcome.png" alt="" class="hide-mobile" />
           </div>
-          <img src="./assets/imgs/avatar.png" alt="avatar" class="avatar" />
+          <img src="assets/imgs/avatar.png" alt="avatar" class="avatar" />
           <div class="body txt-c d-flex p-20 mt-20 mb-20 block-mobile">
             <div>
               Zead Hajebrahem

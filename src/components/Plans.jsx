@@ -57,9 +57,7 @@ function Plans() {
               <i className="fa-solid fa-circle-info help"></i>
             </li>
           </ul>
-          <a href="#" className="bg-green c-white d-block w-fit">
-            Join
-          </a>
+          <a className="bg-green c-white d-block w-fit">Join</a>
         </div>
 
         <div className="plan bg-white p-20 blue">
@@ -116,9 +114,7 @@ function Plans() {
               <i className="fa-solid fa-circle-info help"></i>
             </li>
           </ul>
-          <a href="#" className="bg-blue c-white d-block w-fit">
-            Join
-          </a>
+          <a className="bg-blue c-white d-block w-fit">Join</a>
         </div>
         <div className="plan bg-white p-20 orange">
           <div className="top bg-orange txt-c p-20">

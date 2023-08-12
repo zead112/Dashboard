@@ -65,9 +65,7 @@ function Settings() {
               value="Zeadhajebrahem@outlook.com"
               disabled
             />
-            <a className="c-blue" href="#">
-              Change
-            </a>
+            <a className="c-blue">Change</a>
           </div>
         </div>
         <div className="widget">
@@ -83,9 +81,7 @@ function Settings() {
               </p>
             </div>
             <div>
-              <a className="button bg-blue c-white btn-shape" href="#">
-                Change
-              </a>
+              <a className="button bg-blue c-white btn-shape">Change</a>
             </div>
           </div>
           <div className="sec-box mb-15 between-flex">
@@ -110,9 +106,7 @@ function Settings() {
               </p>
             </div>
             <div>
-              <a className="bg-eee c-black btn-shape" href="#">
-                Devices
-              </a>
+              <a className="bg-eee c-black btn-shape">Devices</a>
             </div>
           </div>
         </div>
