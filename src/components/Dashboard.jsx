@@ -9,9 +9,17 @@ function Dashboard() {
               <h2 class="m-0">Welcome</h2>
               <p class="c-grey mt-5">Zead Hajebrahem</p>
             </div>
-            <img src="assets/imgs/welcome.png" alt="" class="hide-mobile" />
+            <img
+              src={process.env.PUBLIC_URL + "/assets/imgs/welcome.png"}
+              alt=""
+              class="hide-mobile"
+            />
           </div>
-          <img src="assets/imgs/avatar.png" alt="avatar" class="avatar" />
+          <img
+            src={process.env.PUBLIC_URL + "/assets/imgs/avatar.png"}
+            alt="avatar"
+            class="avatar"
+          />
           <div class="body txt-c d-flex p-20 mt-20 mb-20 block-mobile">
             <div>
               Zead Hajebrahem
@@ -126,7 +134,10 @@ function Dashboard() {
         <div className="latest-news widget txt-c-mobile">
           <h2 className="title">Latest News</h2>
           <div className="news-row block-mobile d-flex align-center">
-            <img src="assets/imgs/news-01.png" alt="" />
+            <img
+              src={process.env.PUBLIC_URL + "/assets/imgs/news-01.png"}
+              alt=""
+            />
             <div className="info">
               <h3>Created SASS Section</h3>
               <p className="m-0 fs-14 c-grey">New SASS Examples & Tutorials</p>
@@ -134,7 +145,10 @@ function Dashboard() {
             <div className="rad-6 bg-eee fs-13 label">3 Days Ago</div>
           </div>
           <div className="news-row block-mobile d-flex align-center">
-            <img src="assets/imgs/news-02.png" alt="" />
+            <img
+              src={process.env.PUBLIC_URL + "/assets/imgs/news-02.png"}
+              alt=""
+            />
             <div className="info">
               <h3>Changed The Design</h3>
               <p className="m-0 fs-14 c-grey">A Brand New Website Design</p>
@@ -142,7 +156,10 @@ function Dashboard() {
             <div className="rad-6 bg-eee fs-13 label">5 Days Ago</div>
           </div>
           <div className="news-row block-mobile d-flex align-center">
-            <img src="assets/imgs/news-03.png" alt="" />
+            <img
+              src={process.env.PUBLIC_URL + "/assets/imgs/news-03.png"}
+              alt=""
+            />
             <div className="info">
               <h3>Team Increased</h3>
               <p className="m-0 fs-14 c-grey">3 Developers Joined The Team</p>
@@ -150,7 +167,10 @@ function Dashboard() {
             <div className="rad-6 bg-eee fs-13 label">7 Days Ago</div>
           </div>
           <div className="news-row block-mobile d-flex align-center">
-            <img src="assets/imgs/news-04.png" alt="" />
+            <img
+              src={process.env.PUBLIC_URL + "/assets/imgs/news-04.png"}
+              alt=""
+            />
             <div className="info">
               <h3>Added Payment Gateway</h3>
               <p className="m-0 fs-14 c-grey">
@@ -236,7 +256,11 @@ function Dashboard() {
           <ul>
             <li className="between-flex pb-10 mb-10">
               <div className="d-flex align-center">
-                <img className="mr-10" src="assets/imgs/pdf.svg" alt="" />
+                <img
+                  className="mr-10"
+                  src={process.env.PUBLIC_URL + "/assets/imgs/pdf.svg"}
+                  alt=""
+                />
                 <div>
                   <span className="d-block">my-file.pdf</span>
                   <span className="fs-15 c-grey">Zead</span>
@@ -246,7 +270,11 @@ function Dashboard() {
             </li>
             <li className="between-flex pb-10 mb-10">
               <div className="d-flex align-center">
-                <img className="mr-10" src="assets/imgs/avi.svg" alt="" />
+                <img
+                  className="mr-10"
+                  src={process.env.PUBLIC_URL + "/assets/imgs/avi.svg"}
+                  alt=""
+                />
                 <div>
                   <span className="d-block">my-video.avi</span>
                   <span className="fs-15 c-grey">Admin</span>
@@ -256,7 +284,11 @@ function Dashboard() {
             </li>
             <li className="between-flex pb-10 mb-10">
               <div className="d-flex align-center">
-                <img className="mr-10" src="assets/imgs/psd.svg" alt="" />
+                <img
+                  className="mr-10"
+                  src={process.env.PUBLIC_URL + "/assets/imgs/psd.svg"}
+                  alt=""
+                />
                 <div>
                   <span className="d-block">my-design.psd</span>
                   <span className="fs-15 c-grey">Zead</span>
@@ -266,7 +298,11 @@ function Dashboard() {
             </li>
             <li className="between-flex pb-10 mb-10">
               <div className="d-flex align-center">
-                <img className="mr-10" src="assets/imgs/zip.svg" alt="" />
+                <img
+                  className="mr-10"
+                  src={process.env.PUBLIC_URL + "/assets/imgs/zip.svg"}
+                  alt=""
+                />
                 <div>
                   <span className="d-block">my-code.zip</span>
                   <span className="fs-15 c-grey">User</span>
@@ -276,7 +312,11 @@ function Dashboard() {
             </li>
             <li className="between-flex pb-10 mb-10">
               <div className="d-flex align-center">
-                <img className="mr-10" src="assets/imgs/dll.svg" alt="" />
+                <img
+                  className="mr-10"
+                  src={process.env.PUBLIC_URL + "/assets/imgs/dll.svg"}
+                  alt=""
+                />
                 <div>
                   <span className="d-block">msvcr120.dll</span>
                   <span className="fs-15 c-grey">Admin</span>
@@ -307,7 +347,7 @@ function Dashboard() {
           </ul>
           <img
             className="launch-icon hide-mobile"
-            src="assets/imgs/project.png"
+            src={process.env.PUBLIC_URL + "/assets/imgs/project.png"}
             alt=""
           />
         </div>
@@ -349,7 +389,11 @@ function Dashboard() {
         <div className="latest-post widget p-relative">
           <h2 className="mt-0 mb-25">Latest Post</h2>
           <div className="top d-flex align-center">
-            <img className="avatar mr-15" src="assets/imgs/avatar.png" alt="" />
+            <img
+              className="avatar mr-15"
+              src={process.env.PUBLIC_URL + "/assets/imgs/avatar.png"}
+              alt=""
+            />
             <div className="info">
               <span className="d-block mb-5 fw-bold">Zead Hajebrahem</span>
               <span className="c-grey">About 3 Hours Ago</span>
@@ -423,10 +467,22 @@ function Dashboard() {
                 <td>Ministry</td>
                 <td>$5300</td>
                 <td>
-                  <img src="assets/imgs/team-01.png" alt="" />
-                  <img src="assets/imgs/team-02.png" alt="" />
-                  <img src="assets/imgs/team-03.png" alt="" />
-                  <img src="assets/imgs/team-05.png" alt="" />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                    alt=""
+                  />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                    alt=""
+                  />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                    alt=""
+                  />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-05.png"}
+                    alt=""
+                  />
                 </td>
                 <td>
                   <span className="label bg-orange c-white stat-shape">
@@ -440,9 +496,18 @@ function Dashboard() {
                 <td>eTech Company</td>
                 <td>$1500</td>
                 <td>
-                  <img src="assets/imgs/team-01.png" alt="" />
-                  <img src="assets/imgs/team-02.png" alt="" />
-                  <img src="assets/imgs/team-05.png" alt="" />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                    alt=""
+                  />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                    alt=""
+                  />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-05.png"}
+                    alt=""
+                  />
                 </td>
                 <td>
                   <span className="label bg-blue c-white stat-shape">
@@ -456,8 +521,14 @@ function Dashboard() {
                 <td>Immersion</td>
                 <td>$800</td>
                 <td>
-                  <img src="assets/imgs/team-02.png" alt="" />
-                  <img src="assets/imgs/team-03.png" alt="" />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                    alt=""
+                  />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                    alt=""
+                  />
                 </td>
                 <td>
                   <span className="label bg-green c-white stat-shape">
@@ -471,8 +542,14 @@ function Dashboard() {
                 <td>Zead</td>
                 <td>$600</td>
                 <td>
-                  <img src="assets/imgs/team-01.png" alt="" />
-                  <img src="assets/imgs/team-02.png" alt="" />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                    alt=""
+                  />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                    alt=""
+                  />
                 </td>
                 <td>
                   <span className="label bg-green c-white stat-shape">
@@ -486,8 +563,14 @@ function Dashboard() {
                 <td>Osama</td>
                 <td>$300</td>
                 <td>
-                  <img src="assets/imgs/team-01.png" alt="" />
-                  <img src="assets/imgs/team-03.png" alt="" />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                    alt=""
+                  />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                    alt=""
+                  />
                 </td>
                 <td>
                   <span className="label bg-red c-white stat-shape">
@@ -501,10 +584,22 @@ function Dashboard() {
                 <td>Arena Company</td>
                 <td>$2600</td>
                 <td>
-                  <img src="assets/imgs/team-01.png" alt="" />
-                  <img src="assets/imgs/team-02.png" alt="" />
-                  <img src="assets/imgs/team-03.png" alt="" />
-                  <img src="assets/imgs/team-04.png" alt="" />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                    alt=""
+                  />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                    alt=""
+                  />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                    alt=""
+                  />
+                  <img
+                    src={process.env.PUBLIC_URL + "/assets/imgs/team-04.png"}
+                    alt=""
+                  />
                 </td>
                 <td>
                   <span className="label bg-green c-white stat-shape">

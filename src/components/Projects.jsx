@@ -11,19 +11,34 @@ function Projects() {
           </p>
           <div className="team">
             <a>
-              <img src="assets/imgs/team-01.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-02.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-03.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-04.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-04.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-05.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-05.png"}
+                alt=""
+              />
             </a>
           </div>
           <div className="tasks d-flex">
@@ -50,13 +65,22 @@ function Projects() {
           </p>
           <div className="team">
             <a>
-              <img src="assets/imgs/team-01.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-02.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-03.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                alt=""
+              />
             </a>
           </div>
           <div className="tasks d-flex">
@@ -81,13 +105,22 @@ function Projects() {
           </p>
           <div className="team">
             <a>
-              <img src="assets/imgs/team-01.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-02.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-03.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                alt=""
+              />
             </a>
           </div>
           <div className="tasks d-flex">
@@ -111,16 +144,28 @@ function Projects() {
           </p>
           <div className="team">
             <a>
-              <img src="assets/imgs/team-01.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-02.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-03.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-04.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-04.png"}
+                alt=""
+              />
             </a>
           </div>
           <div className="tasks d-flex">
@@ -147,13 +192,22 @@ function Projects() {
           </p>
           <div className="team">
             <a>
-              <img src="assets/imgs/team-01.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-02.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-03.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                alt=""
+              />
             </a>
           </div>
           <div className="tasks d-flex">
@@ -178,13 +232,22 @@ function Projects() {
           </p>
           <div className="team">
             <a>
-              <img src="assets/imgs/team-01.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-02.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-03.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                alt=""
+              />
             </a>
           </div>
           <div className="tasks d-flex">
@@ -208,16 +271,28 @@ function Projects() {
           </p>
           <div className="team">
             <a>
-              <img src="assets/imgs/team-01.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-02.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-03.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-04.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-04.png"}
+                alt=""
+              />
             </a>
           </div>
           <div className="tasks d-flex">
@@ -244,13 +319,22 @@ function Projects() {
           </p>
           <div className="team">
             <a>
-              <img src="assets/imgs/team-01.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-02.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-03.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                alt=""
+              />
             </a>
           </div>
           <div className="tasks d-flex">
@@ -276,13 +360,22 @@ function Projects() {
           </p>
           <div className="team">
             <a>
-              <img src="assets/imgs/team-01.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-02.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+                alt=""
+              />
             </a>
             <a>
-              <img src="assets/imgs/team-03.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+                alt=""
+              />
             </a>
           </div>
           <div className="tasks d-flex">

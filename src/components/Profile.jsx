@@ -7,7 +7,7 @@ function Profile() {
           <div className="avatar-box p-20 txt-c">
             <img
               className="mb-10 rad-half"
-              src="assets/imgs/avatar.png"
+              src={process.env.PUBLIC_URL + "/assets/imgs/avatar.png"}
               alt=""
             />
             <h3 className="m-0">Zead Hajebrahem</h3>
@@ -156,7 +156,10 @@ function Profile() {
               Latest Activities Done By The User
             </p>
             <div className="activity d-flex align-center txt-c-mobile">
-              <img src="assets/imgs/activity-01.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/activity-01.png"}
+                alt=""
+              />
               <div className="info">
                 <span className="d-block mb-10">Store</span>
                 <span className="c-grey">
@@ -169,7 +172,10 @@ function Profile() {
               </div>
             </div>
             <div className="activity d-flex align-center txt-c-mobile">
-              <img src="assets/imgs/activity-02.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/activity-02.png"}
+                alt=""
+              />
               <div className="info">
                 <span className="d-block mb-10">Academy</span>
                 <span className="c-grey">Got The React Certificate</span>
@@ -180,7 +186,10 @@ function Profile() {
               </div>
             </div>
             <div className="activity d-flex align-center txt-c-mobile">
-              <img src="assets/imgs/activity-03.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/activity-03.png"}
+                alt=""
+              />
               <div className="info">
                 <span className="d-block mb-10">Badges</span>
                 <span className="c-grey">Unlocked The 10 Skills Badge</span>
@@ -191,7 +200,10 @@ function Profile() {
               </div>
             </div>
             <div className="activity d-flex align-center txt-c-mobile">
-              <img src="assets/imgs/activity-01.png" alt="" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/imgs/activity-01.png"}
+                alt=""
+              />
               <div className="info">
                 <span className="d-block mb-10"> Store </span>
                 <span className="c-grey">Bought The Typescript Course</span>

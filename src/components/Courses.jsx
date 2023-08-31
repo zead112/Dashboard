@@ -4,8 +4,16 @@ function Courses() {
       <h1 class="p-relative">Courses</h1>
       <div className="courses-page d-grid m-20 gap-20">
         <div className="course bg-white rad-6 p-relative">
-          <img className="cover" src="assets/imgs/course-01.jpg" alt="" />
-          <img className="instructor" src="assets/imgs/team-01.png" alt="" />
+          <img
+            className="cover"
+            src={process.env.PUBLIC_URL + "/assets/imgs/course-01.jpg"}
+            alt=""
+          />
+          <img
+            className="instructor"
+            src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+            alt=""
+          />
           <div className="p-20">
             <h4 className="m-0">Mastering Web Design</h4>
             <p className="description c-grey mt-15 fs-14">
@@ -28,8 +36,16 @@ function Courses() {
           </div>
         </div>
         <div className="course bg-white rad-6 p-relative">
-          <img className="cover" src="assets/imgs/course-02.jpg" alt="" />
-          <img className="instructor" src="assets/imgs/team-02.png" alt="" />
+          <img
+            className="cover"
+            src={process.env.PUBLIC_URL + "/assets/imgs/course-02.jpg"}
+            alt=""
+          />
+          <img
+            className="instructor"
+            src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+            alt=""
+          />
           <div className="p-20">
             <h4 className="m-0">Data Structure And Algorithms</h4>
             <p className="description c-grey mt-15 fs-14">
@@ -53,8 +69,16 @@ function Courses() {
         </div>
 
         <div className="course bg-white rad-6 p-relative">
-          <img className="cover" src="assets/imgs/course-03.jpg" alt="" />
-          <img className="instructor" src="assets/imgs/team-01.png" alt="" />
+          <img
+            className="cover"
+            src={process.env.PUBLIC_URL + "/assets/imgs/course-03.jpg"}
+            alt=""
+          />
+          <img
+            className="instructor"
+            src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+            alt=""
+          />
           <div className="p-20">
             <h4 className="m-0">Responsive Web Design</h4>
             <p className="description c-grey mt-15 fs-14">
@@ -77,8 +101,16 @@ function Courses() {
           </div>
         </div>
         <div className="course bg-white rad-6 p-relative">
-          <img className="cover" src="assets/imgs/course-04.jpg" alt="" />
-          <img className="instructor" src="assets/imgs/team-03.png" alt="" />
+          <img
+            className="cover"
+            src={process.env.PUBLIC_URL + "/assets/imgs/course-04.jpg"}
+            alt=""
+          />
+          <img
+            className="instructor"
+            src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+            alt=""
+          />
           <div className="p-20">
             <h4 className="m-0">Mastering Python</h4>
             <p className="description c-grey mt-15 fs-14">
@@ -102,8 +134,16 @@ function Courses() {
         </div>
 
         <div className="course bg-white rad-6 p-relative">
-          <img className="cover" src="assets/imgs/course-05.jpg" alt="" />
-          <img className="instructor" src="assets/imgs/team-03.png" alt="" />
+          <img
+            className="cover"
+            src={process.env.PUBLIC_URL + "/assets/imgs/course-05.jpg"}
+            alt=""
+          />
+          <img
+            className="instructor"
+            src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+            alt=""
+          />
           <div className="p-20">
             <h4 className="m-0">PHP Examples</h4>
             <p className="description c-grey mt-15 fs-14">
@@ -127,8 +167,16 @@ function Courses() {
         </div>
 
         <div className="course bg-white rad-6 p-relative">
-          <img className="cover" src="assets/imgs/course-02.jpg" alt="" />
-          <img className="instructor" src="assets/imgs/team-02.png" alt="" />
+          <img
+            className="cover"
+            src={process.env.PUBLIC_URL + "/assets/imgs/course-02.jpg"}
+            alt=""
+          />
+          <img
+            className="instructor"
+            src={process.env.PUBLIC_URL + "/assets/imgs/team-02.png"}
+            alt=""
+          />
           <div className="p-20">
             <h4 className="m-0">Data Structure And Algorithms</h4>
             <p className="description c-grey mt-15 fs-14">
@@ -151,8 +199,16 @@ function Courses() {
           </div>
         </div>
         <div className="course bg-white rad-6 p-relative">
-          <img className="cover" src="assets/imgs/course-03.jpg" alt="" />
-          <img className="instructor" src="assets/imgs/team-01.png" alt="" />
+          <img
+            className="cover"
+            src={process.env.PUBLIC_URL + "/assets/imgs/course-03.jpg"}
+            alt=""
+          />
+          <img
+            className="instructor"
+            src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+            alt=""
+          />
           <div className="p-20">
             <h4 className="m-0">Responsive Web Design</h4>
             <p className="description c-grey mt-15 fs-14">
@@ -176,8 +232,16 @@ function Courses() {
         </div>
 
         <div className="course bg-white rad-6 p-relative">
-          <img className="cover" src="assets/imgs/course-01.jpg" alt="" />
-          <img className="instructor" src="assets/imgs/team-01.png" alt="" />
+          <img
+            className="cover"
+            src={process.env.PUBLIC_URL + "/assets/imgs/course-01.jpg"}
+            alt=""
+          />
+          <img
+            className="instructor"
+            src={process.env.PUBLIC_URL + "/assets/imgs/team-01.png"}
+            alt=""
+          />
           <div className="p-20">
             <h4 className="m-0">Mastering Web Design</h4>
             <p className="description c-grey mt-15 fs-14">
@@ -201,8 +265,16 @@ function Courses() {
         </div>
 
         <div className="course bg-white rad-6 p-relative">
-          <img className="cover" src="assets/imgs/course-05.jpg" alt="" />
-          <img className="instructor" src="assets/imgs/team-03.png" alt="" />
+          <img
+            className="cover"
+            src={process.env.PUBLIC_URL + "/assets/imgs/course-05.jpg"}
+            alt=""
+          />
+          <img
+            className="instructor"
+            src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+            alt=""
+          />
           <div className="p-20">
             <h4 className="m-0">PHP Examples</h4>
             <p className="description c-grey mt-15 fs-14">
@@ -225,8 +297,16 @@ function Courses() {
           </div>
         </div>
         <div className="course bg-white rad-6 p-relative">
-          <img className="cover" src="assets/imgs/course-04.jpg" alt="" />
-          <img className="instructor" src="assets/imgs/team-03.png" alt="" />
+          <img
+            className="cover"
+            src={process.env.PUBLIC_URL + "/assets/imgs/course-04.jpg"}
+            alt=""
+          />
+          <img
+            className="instructor"
+            src={process.env.PUBLIC_URL + "/assets/imgs/team-03.png"}
+            alt=""
+          />
           <div className="p-20">
             <h4 className="m-0">Mastering Python</h4>
             <p className="description c-grey mt-15 fs-14">

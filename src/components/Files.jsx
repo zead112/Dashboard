@@ -50,7 +50,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/pdf.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/pdf.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.pdf</div>
             <p class="c-grey fs-13">Zead Hajebrahem</p>
@@ -63,7 +67,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/avi.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/avi.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.avi</div>
             <p class="c-grey fs-13">Admin</p>
@@ -76,7 +84,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/eps.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/eps.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.eps</div>
             <p class="c-grey fs-13">Uploader</p>
@@ -88,7 +100,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/psd.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/psd.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.psd</div>
             <p class="c-grey fs-13">User</p>
@@ -101,7 +117,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/dll.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/dll.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.pdf</div>
             <p class="c-grey fs-13">Zead Hajebrahem</p>
@@ -114,7 +134,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/png.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/png.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.png</div>
             <p class="c-grey fs-13">Designer</p>
@@ -126,7 +150,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/dll.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/dll.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.dll</div>
             <p class="c-grey fs-13">Coder</p>
@@ -139,7 +167,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/png.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/png.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.png</div>
             <p class="c-grey fs-13">Zead Hajebrahem</p>
@@ -152,7 +184,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/psd.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/psd.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.psd</div>
             <p class="c-grey fs-13">User</p>
@@ -164,7 +200,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/pdf.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/pdf.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.pdf</div>
             <p class="c-grey fs-13">Zead Hajebrahem</p>
@@ -177,7 +217,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/avi.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/avi.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.avi</div>
             <p class="c-grey fs-13">Admin</p>
@@ -190,7 +234,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/eps.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/eps.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.eps</div>
             <p class="c-grey fs-13">Uploader</p>
@@ -202,7 +250,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/pdf.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/pdf.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.pdf</div>
             <p class="c-grey fs-13">Zead Hajebrahem</p>
@@ -215,7 +267,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/avi.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/avi.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.avi</div>
             <p class="c-grey fs-13">Admin</p>
@@ -228,7 +284,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/eps.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/eps.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.eps</div>
             <p class="c-grey fs-13">Zead Hajebrahem</p>
@@ -241,7 +301,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/psd.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/psd.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.psd</div>
             <p class="c-grey fs-13">User</p>
@@ -253,7 +317,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/dll.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/dll.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.dll</div>
             <p class="c-grey fs-13">Coder</p>
@@ -266,7 +334,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/png.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/png.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.png</div>
             <p class="c-grey fs-13">Designer</p>
@@ -279,7 +351,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/dll.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/dll.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.dll</div>
             <p class="c-grey fs-13">Coder</p>
@@ -292,7 +368,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/png.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/png.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.png</div>
             <p class="c-grey fs-13">Designer</p>
@@ -304,7 +384,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/psd.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/psd.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.psd</div>
             <p class="c-grey fs-13">User</p>
@@ -317,7 +401,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/pdf.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/pdf.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.pdf</div>
             <p class="c-grey fs-13">Zead Hajebrahem</p>
@@ -330,7 +418,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/avi.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/avi.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.avi</div>
             <p class="c-grey fs-13">Admin</p>
@@ -343,7 +435,11 @@ function Files() {
           <div class="file p-10 bg-white rad-10">
             <i class="fa-solid fa-download c-grey p-absolute"></i>
             <div class="icon txt-c">
-              <img class="mt-15 mb-15" src="assets/imgs/eps.svg" alt="" />
+              <img
+                class="mt-15 mb-15"
+                src={process.env.PUBLIC_URL + "/assets/imgs/eps.svg"}
+                alt=""
+              />
             </div>
             <div class="txt-c mb-10 fs-14">my-file.eps.svg</div>
             <p class="c-grey fs-13">Uploader</p>

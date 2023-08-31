@@ -12,7 +12,7 @@ function Friends() {
           <div className="txt-c">
             <img
               className="rad-half mt-10 mb-10 w-100 h-100"
-              src="assets/imgs/friend-02.jpg"
+              src={process.env.PUBLIC_URL + "/assets/imgs/friend-02.jpg"}
               alt=""
             />
             <h4 className="m-0">Zead Hajebrahem</h4>
@@ -52,7 +52,7 @@ function Friends() {
           <div className="txt-c">
             <img
               className="rad-half mt-10 mb-10 w-100 h-100"
-              src="assets/imgs/friend-05.jpg"
+              src={process.env.PUBLIC_URL + "/assets/imgs/friend-05.jpg"}
               alt=""
             />
             <h4 className="m-0">Noah Johnson</h4>
@@ -91,7 +91,7 @@ function Friends() {
           <div className="txt-c">
             <img
               className="rad-half mt-10 mb-10 w-100 h-100"
-              src="assets/imgs/friend-04.jpg"
+              src={process.env.PUBLIC_URL + "/assets/imgs/friend-04.jpg"}
               alt=""
             />
             <h4 className="m-0">Olivia Mitchell</h4>
@@ -131,7 +131,7 @@ function Friends() {
           <div className="txt-c">
             <img
               className="rad-half mt-10 mb-10 w-100 h-100"
-              src="assets/imgs/friend-03.jpg"
+              src={process.env.PUBLIC_URL + "/assets/imgs/friend-03.jpg"}
               alt=""
             />
             <h4 className="m-0">Jackson Parker</h4>
@@ -170,7 +170,7 @@ function Friends() {
           <div className="txt-c">
             <img
               className="rad-half mt-10 mb-10 w-100 h-100"
-              src="assets/imgs/friend-02.jpg"
+              src={process.env.PUBLIC_URL + "/assets/imgs/friend-02.jpg"}
               alt=""
             />
             <h4 className="m-0">Ethan Bennett</h4>
@@ -210,7 +210,7 @@ function Friends() {
           <div className="txt-c">
             <img
               className="rad-half mt-10 mb-10 w-100 h-100"
-              src="assets/imgs/friend-03.jpg"
+              src={process.env.PUBLIC_URL + "/assets/imgs/friend-03.jpg"}
               alt=""
             />
             <h4 className="m-0">Liam Anderson</h4>
@@ -248,7 +248,7 @@ function Friends() {
           <div className="txt-c">
             <img
               className="rad-half mt-10 mb-10 w-100 h-100"
-              src="assets/imgs/friend-01.jpg"
+              src={process.env.PUBLIC_URL + "/assets/imgs/friend-01.jpg"}
               alt=""
             />
             <h4 className="m-0">Ava Foster</h4>
@@ -288,7 +288,7 @@ function Friends() {
           <div className="txt-c">
             <img
               className="rad-half mt-10 mb-10 w-100 h-100"
-              src="assets/imgs/friend-05.jpg"
+              src={process.env.PUBLIC_URL + "/assets/imgs/friend-05.jpg"}
               alt=""
             />
             <h4 className="m-0">Lucas Thompson</h4>
@@ -326,7 +326,7 @@ function Friends() {
           <div className="txt-c">
             <img
               className="rad-half mt-10 mb-10 w-100 h-100"
-              src="assets/imgs/friend-02.jpg"
+              src={process.env.PUBLIC_URL + "/assets/imgs/friend-02.jpg"}
               alt=""
             />
             <h4 className="m-0">Benjamin Sullivan</h4>
@@ -365,7 +365,7 @@ function Friends() {
           <div className="txt-c">
             <img
               className="rad-half mt-10 mb-10 w-100 h-100"
-              src="assets/imgs/friend-03.jpg"
+              src={process.env.PUBLIC_URL + "/assets/imgs/friend-03.jpg"}
               alt=""
             />
             <h4 className="m-0">Alexander Carter</h4>
